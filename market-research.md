@@ -1,3 +1,4 @@
+Part1:
 #1 
 Company:HireNest
 Location:Remote
@@ -44,3 +45,10 @@ Modern frameworks,
 REST API,SQL
 Experience:Hire based on skills and experties
 Nice-to-Have:python,PHP
+
+
+Part2:
+Skills: HTML, CSS, JavaScript, React.js, Node.js, SQL, REST APIs, strong UX, Docker, TypeScript, Python, PHP
+Times mentiond respectively: 5(high priority), 5(high), 5(high), 3(medium), 2(low), 2(low), 4(high), 1(low), 1(low), 1(low), 1(low)
+
+I have all of these skills except Docker,PHP,TypeScript and ux till now and experience in building web applications. I am a self-motivated team player with good communication skills. I am also interested in AI-assisted development and have experience with modern frameworks. I am available for immediate joining and can work remotely.
